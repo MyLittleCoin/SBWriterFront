@@ -1,7 +1,7 @@
 import React from 'react';
 import axios from 'axios';
 
-const ENDPOINT_URL = "https://bot.feather.cloudns.cl/generate";
+const ENDPOINT_URL = "https://main-sbw-backend-timofey-korzh.endpoint.ainize.ai/generate";
 //const ENDPOINT_URL = "http://127.0.0.1:5000/generate";
 
 const useAsyncEndpoint = fn => {
